@@ -1,0 +1,9 @@
+{
+  "name": "genpark-cidr-subnet-ip-routing-table-skill",
+  "version": "1.0.0",
+  "description": "CIDR IP prefix routing table with Longest Prefix Match (LPM) and subnet decomposition",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
