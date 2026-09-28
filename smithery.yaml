@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-cidr-subnet-ip-routing-table-skill
+service:
+  name: genpark-cidr-subnet-ip-routing-table-skill
+  command: python
+  args:
+    - mcp_server.py
