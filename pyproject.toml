@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-cidr-subnet-ip-routing-table-skill"
+version = "1.0.0"
+description = "CIDR IP prefix routing table with Longest Prefix Match (LPM) and subnet decomposition"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-cidr-subnet-ip-routing-table-skill.git"
